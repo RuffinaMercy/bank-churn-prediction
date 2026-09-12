@@ -55,7 +55,6 @@ Age, Balance, and Number of Products align directly with the EDA findings above.
 - Try SMOTE as an alternative to class weighting, and compare results
 - Hyperparameter tuning (GridSearch/RandomSearch) on Random Forest
 - Try XGBoost as a third model for comparison
-- Simple Streamlit app for live churn probability lookup
 
 ## Tech Stack
 
